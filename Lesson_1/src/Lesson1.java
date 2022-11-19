@@ -4,6 +4,7 @@ public class Lesson1 {
         System.out.println("Lesson1");
         byte x=127;
         System.out.println(x);
+        System.out.println(x);
         short y =1300;
         System.out.println(y);
         int a=30000;
