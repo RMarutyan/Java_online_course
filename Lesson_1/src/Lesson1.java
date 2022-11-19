@@ -5,6 +5,7 @@ public class Lesson1 {
         byte x=127;
         System.out.println(x);
         System.out.println(x);
+        System.out.println(x);
         short y =1300;
         System.out.println(y);
         int a=30000;
@@ -14,7 +15,6 @@ public class Lesson1 {
         float fl= 22.1f;
         System.out.println(fl);
         double db= 159.7;
-        db=245.8;
         System.out.println(db);
         boolean bl= false;
         System.out.println(bl);
@@ -25,7 +25,5 @@ public class Lesson1 {
         char un= '\u0025';
         un= '\u2764';
         System.out.println(un);
-
-
             }
 }
